@@ -7,7 +7,7 @@ Link to play the game:- https://khush2706.github.io/Obstacle-Game/
 
 # About the Code
 
-MOVER SCRIPT: Moves the player according to the input provided by the user at a frame-rate independent speed. Also prints the game instructions in the console.
+MOVER SCRIPT: Moves the player according to the input provided by the user at a frame-rate independent speed. Also prints the game instructions to the console.
 
 OBJECT HIT SCRIPT: Changes the color of the obstacle when hit by the player for the first time.
 
