@@ -3,6 +3,8 @@
 
 This is a basic 3D Collision Game created in Unity. This one is my first project in unity. The end goal of the game is to move your player from the starting block to the finishing block without colliding with any obstacles along the way. The player could be easily controlled with basic ARROW KEYS or with W,A,S,D.
 
+Link to play the game:- https://khush2706.github.io/Obstacle-Game/
+
 # About the Code
 
 MOVER SCRIPT: Moves the player according to the input provided by the user at a frame-rate independent speed. Also prints the game instructions in the console.
