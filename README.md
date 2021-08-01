@@ -11,7 +11,7 @@ MOVER SCRIPT: Moves the player according to the input provided by the user at a 
 
 OBJECT HIT SCRIPT: Changes the color of the obstacle when hit by the player for the first time.
 
-SCORER SCRIPT: Prints the number of times our player has bumped into an obstacle, in the console.
+SCORER SCRIPT: Prints the number of times our player has bumped into the obstacles, in the console.
 
 DROPPER SCRIPT: Enables the gravity in the obstacles exactly three seconds within the game and thus makes the objects drop three seconds after the game has started.
 
