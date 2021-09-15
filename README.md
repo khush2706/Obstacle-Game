@@ -5,7 +5,7 @@ This is a basic 3D Collision Game created in Unity. This one is my first project
 
 Link to play the game:- https://khush2706.github.io/Obstacle-Game/
 
-# About the Code
+## About the Code
 
 * MOVER SCRIPT: Moves the player according to the input provided by the user at a frame-rate independent speed. Also prints the game instructions to the console.
 
